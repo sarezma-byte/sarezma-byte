@@ -1,7 +1,4 @@
-### Welcome to my profile! 🚀
-
-* 💻 I am currently learning **C**, **Python**, and web technologies.
-* 🔭 Exploring cybersecurity concepts, OSINT, and system logic.
+I am currently learning and writing code in C, Python, and JavaScript. I am at an intermediate level in cybersecurity.
 
 | Category | Technologies / Tools |
 | :--- | :--- |
