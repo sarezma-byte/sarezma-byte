@@ -1,5 +1,6 @@
 I am currently learning and writing code in C, Python, and JavaScript. I am at an intermediate level in cybersecurity.
-https://github.com/BEPb/BEPb/blob/main/src/header_.png
+<img width="2000" height="400" alt="header_" src="https://github.com/user-attachments/assets/fafa7ed7-85f3-42d4-a23f-bce366fbac74" />
+
 
 | Category | Technologies / Tools |
 | :--- | :--- |
