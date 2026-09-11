@@ -1,3 +1,5 @@
+<img width="360" height="360" alt="png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure-thumbnail" src="https://github.com/user-attachments/assets/a47aeb64-83bc-4ccc-b07a-45703c3eaa28" />
+<img width="360" height="360" alt="png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure-thumbnail" src="https://github.com/user-attachments/assets/365b3ab4-eb9e-4bb4-a886-d5827324d8ad" />
 I am currently learning and writing code in C, Python, and JavaScript. I am at an intermediate level in cybersecurity.
 <img width="2000" height="400" alt="header_" src="https://github.com/user-attachments/assets/fafa7ed7-85f3-42d4-a23f-bce366fbac74" />
 
@@ -14,4 +16,10 @@ I am currently learning and writing code in C, Python, and JavaScript. I am at a
 
 
 <img width="110" height="110" alt="Cover_C_1" src="https://github.com/user-attachments/assets/060ba813-188a-4c1b-9999-5e10203803dd" />
+
+
+<img width="110" height="27" alt="Flag_of_Turkey svg" src="https://github.com/user-attachments/assets/a5794d5a-8f3f-41e9-bfd8-c2b9f2357b72" />
+
+
+<img width="110" height="110" alt="png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure-thumbnail" src="https://github.com/user-attachments/assets/97e7f26a-ee23-4f70-87be-92ae43680a09" />
 
