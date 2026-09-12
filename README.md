@@ -4,9 +4,9 @@ I am currently learning and writing code in C. I am at an intermediate level in 
 
 <img width="250" height="167" alt="Flag_of_Turkey svg" src="https://github.com/user-attachments/assets/7c6556e9-6b37-4b7e-a923-ae4842249e60" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarezma-byte&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarezma-byte&theme=dark)
 
 | Category | Technologies / Tools |
 | :--- | :--- |
