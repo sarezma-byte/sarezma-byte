@@ -5,8 +5,6 @@ I am currently learning and writing code in C. I am at an intermediate level in 
 <img width="250" height="167" alt="Flag_of_Turkey svg" src="https://github.com/user-attachments/assets/7c6556e9-6b37-4b7e-a923-ae4842249e60" />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total_Commits-42-blue?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total_Stars-184-orange?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Main_Language-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
