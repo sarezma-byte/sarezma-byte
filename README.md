@@ -1,4 +1,4 @@
-I am currently learning and writing code in C. I am at an intermediate level in cybersecurity.
+I am currently learning and writing code in C and C#. I am at an intermediate level in cybersecurity.
 <img width="2000" height="400" alt="header_" src="https://github.com/user-attachments/assets/fafa7ed7-85f3-42d4-a23f-bce366fbac74" />
 
 <img width="250" height="167" alt="Flag_of_Turkey svg" src="https://github.com/user-attachments/assets/7c6556e9-6b37-4b7e-a923-ae4842249e60" />
