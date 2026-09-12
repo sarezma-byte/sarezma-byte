@@ -1,7 +1,7 @@
 
 I am currently learning and writing code in C and C#. I am at an intermediate level in cybersecurity.
 
-<img width="590" height="300" alt="Flag_of_Turkey svg" src="https://github.com/user-attachments/assets/7c6556e9-6b37-4b7e-a923-ae4842249e60" />
+<img width="490" height="300" alt="Flag_of_Turkey svg" src="https://github.com/user-attachments/assets/7c6556e9-6b37-4b7e-a923-ae4842249e60" />
 
 
 | Category | Technologies / Tools |
