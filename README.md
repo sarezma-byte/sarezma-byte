@@ -15,7 +15,4 @@ I am currently learning and writing code in C and C#. I am at an intermediate le
 <img width="110" height="110" alt="Cover_C_1" src="https://github.com/user-attachments/assets/060ba813-188a-4c1b-9999-5e10203803dd" />
 
 
-<img width="110" height="110" alt="png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure-thumbnail" src="https://github.com/user-attachments/assets/97e7f26a-ee23-4f70-87be-92ae43680a09" />
-
-
 <img width="110" height="110" alt="csharp-logo-265a149e" src="https://github.com/user-attachments/assets/a42a4e29-8c19-4781-ae77-5d26240fee22" />
