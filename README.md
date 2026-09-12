@@ -1,4 +1,4 @@
-<img width="790" height="790" alt="csharp-logo-265a149e" src="https://github.com/user-attachments/assets/a42a4e29-8c19-4781-ae77-5d26240fee22" />
+
 I am currently learning and writing code in C and C#. I am at an intermediate level in cybersecurity.
 <img width="2000" height="400" alt="header_" src="https://github.com/user-attachments/assets/fafa7ed7-85f3-42d4-a23f-bce366fbac74" />
 
@@ -17,4 +17,5 @@ I am currently learning and writing code in C and C#. I am at an intermediate le
 
 <img width="110" height="110" alt="png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure-thumbnail" src="https://github.com/user-attachments/assets/97e7f26a-ee23-4f70-87be-92ae43680a09" />
 
-<svg xmlns="http://www.w3.org/2000/svg" width="110" height="110" viewBox="0 0 790 790"><path fill="#512bd4" fill-rule="evenodd" d="m395 36-37.203 21.479L84.097 215.5v359L395 754l310.903-179.5v-359L435.395 59.322z"/><path fill="#fff" fill-rule="evenodd" d="M397.252 618c-122.883 0-222.5-99.617-222.5-222.5S274.369 173 397.252 173c82.224 0 154.679 45.73 193.197 112.063l-88.056 50.87c-20.751-37.094-59.614-61.751-105.141-61.751-67.002 0-121.316 54.316-121.316 121.318s54.314 121.318 121.316 121.318c45.228 0 84.675-24.752 105.537-61.447l87.943 50.074C552.45 572.67 480.145 618 397.252 618"/><text xml:space="preserve" x="532.41333" y="447" fill="#fff" font-family="Open Sans" font-size="169" font-weight="700">#</text></svg>
+
+<img width="110" height="110" alt="csharp-logo-265a149e" src="https://github.com/user-attachments/assets/a42a4e29-8c19-4781-ae77-5d26240fee22" />
