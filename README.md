@@ -4,13 +4,7 @@ I am currently learning and writing code in C. I am at an intermediate level in 
 
 <img width="250" height="167" alt="Flag_of_Turkey svg" src="https://github.com/user-attachments/assets/7c6556e9-6b37-4b7e-a923-ae4842249e60" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarezma-byte&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarezma-byte&theme=dark" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarezma-byte&theme=github-dark)
 
 | Category | Technologies / Tools |
 | :--- | :--- |
